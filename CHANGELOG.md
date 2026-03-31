@@ -1,4 +1,8 @@
 # Changelog
+## 2.0.1
+- Sync module with latest ecosystem changes
+- Update dependencies
+
 ## 2.0.0 - Updating libraries
 - Updating for Places API changes
 - Improving models structure
