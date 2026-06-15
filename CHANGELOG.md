@@ -1,4 +1,7 @@
 # Changelog
+
+## Unreleased - System updates
+- Actualizaciones de estabilidad y compatibilidad.
 ## 2.0.1
 - Sync module with latest ecosystem changes
 - Update dependencies

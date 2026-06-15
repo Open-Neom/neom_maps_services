@@ -11,6 +11,8 @@ dependencies:
   http: ^1.6.0
   json_annotation: ^4.9.0
   logger: ^2.6.2
+  neom_codecs:
+    path: ../../main/neom_codecs
 
 dev_dependencies:
   test: ^1.26.3
